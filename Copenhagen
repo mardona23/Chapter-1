@@ -9,7 +9,26 @@ Copenhagen
 of the city stretching onto the smaller island of Amager. Known for its rich history, modern design, and high quality of
 life, Copenhagen is one of the most progressive cities in the world in terms of sustainability, urban planning, and
 cycling culture.
-</p> 
-    </body>
+</p>
+<a href="first.html">first</a> 
+<a href="second.html">first</a>
+<table border="9">
+<tr>
+    <th>company</th>
+    <th>name</th>
+    <th>contact</th>
+</tr>
+<tr>
+    <td>Google</td>
+    <td>name</td>
+    <td>contact</td>
+</tr>
+<tr>
+    <td>Apple</td>
+    <td>name</td>
+    <td>contact</td>
+</tr>
+</table>
+    </body> 
 </head>
 </Html>
