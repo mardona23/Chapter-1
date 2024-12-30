@@ -1,5 +1,10 @@
 <Html>
 <head>
+  <style>
+    h1{
+        color: crimson;  background-color: rgb(0, 221, 255);
+    }
+  </style>
 <h1>
 Copenhagen
 </h1>
@@ -29,6 +34,10 @@ cycling culture.
     <td>contact</td>
 </tr>
 </table>
+<figure>
+<img src="danmark 1.jpg" alt="">
+<figcaption>danmark 1.jpg</figcaption>
+</figure>
     </body> 
 </head>
 </Html>
