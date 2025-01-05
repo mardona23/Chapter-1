@@ -1,22 +1,27 @@
-body{
+body {
     color: rgb(255, 255, 255);
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
-    
+
 }
-h1{
+
+h1 {
     color: #11ff00;
 }
-ul>li{
+
+ul>li {
     font-weight: bold;
 }
+
 ul li:hover {
     color: rgb(0, 255, 38);
     text-decoration: underline;
 }
-ul li:nth-child(2){
+
+ul li:nth-child(2) {
     background-color: aquamarine;
 }
+
 /* ::before Pseudo-element */
 
 ul li::before {
@@ -40,5 +45,4 @@ p::first-letter {
     font-size: 200%;
 
     color: #ff6a5f;
-
 }
